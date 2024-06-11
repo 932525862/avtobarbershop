@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "To'y marosimi uchun soch turmagi.",
+      "description": "Bu xizmatimizda mijozga qulay bo'lgan maziliga boramiz va to'y marosimi uchun mos keladigan premium shoch va soqol turmaklari xizmatni ko`rsatamiz."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Soqolni turmaklash va parvarishlash",
+      "description": "Bu xizmatimiz nimalarni o'z ichiga oladi ? Soqolni olish , turmaklash yokiy perfumerik va kimyovi maxsulotlarbilan parvarishlash va bo`yash. "
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Sochni turmaklash va parvarishlash",
+      "description": "Bu xizmatimiz nimalarni o'z ichiga oladi ? Sochni olish , turmaklash yokiy perfumerik va kimyovi maxsulotlarbilan parvarishlash va bo`yash."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Kosmetika xizmatlar.",
+      "description": "Bu xizmatimiz nimalarni o'z ichiga oladi ? Yuzdagi xusun buzarlardan tozalash yani yuzdagi oq va qora nuqraliy husun buzarlarga qarshi niqob qoyish va kosmetik maxsulotlar orqaliy  husun buzarlarni oldini olish.  "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
